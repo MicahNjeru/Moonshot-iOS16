@@ -35,6 +35,7 @@
 		75B4489F2A272B26002DB9AA /* Color-Theme.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color-Theme.swift"; sourceTree = "<group>"; };
 		75B448A12A272DE7002DB9AA /* MissionView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MissionView.swift; sourceTree = "<group>"; };
 		75B448A32A273452002DB9AA /* AstronautView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AstronautView.swift; sourceTree = "<group>"; };
+		75B448A52A273795002DB9AA /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -51,6 +52,7 @@
 		75B4487B2A270E02002DB9AA = {
 			isa = PBXGroup;
 			children = (
+				75B448A52A273795002DB9AA /* README.md */,
 				75B448862A270E02002DB9AA /* Moonshot */,
 				75B448852A270E02002DB9AA /* Products */,
 			);
