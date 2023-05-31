@@ -14,6 +14,6 @@ that Swift should expect by having the struct conform to the `Codable` protocol.
 - `NavigationLink` & `NavigationView` help abstract all the complex code needed to navigate from one view to another 
 - Also, SwiftUI's modifiers are very structured and easy to use and allows us to design the view however we want programatically and not have to worry about
 fine graining the views to fit every Apple Device.
-- GeometryReader also helps a lot with fine tuning views to conform to our liking especially when modifying images to fit to specific constraints. 
+- `GeometryReader` also helps a lot with fine tuning views to conform to our liking especially when modifying images to fit to specific constraints. 
  
 
